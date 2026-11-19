@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Charith;Full-Stack+Web+%26+Mobile+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I'm+Charith;Full-Stack+Web+%26+Mobile+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS+%26+GCP;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,11 +29,11 @@
 const charith = {
   location:   "Sri Lanka 🇱🇰",
   role:       "Full-Stack Developer",
-  frontend:   ["React", "Vue.js", "TypeScript", "Tailwind CSS"],
-  backend:    ["Node.js", "Express", "Spring Boot", "Python"],
+  frontend:   ["JavaScript", "TypeScript", "React", "Next.js", "Vue.js", "Tailwind CSS"],
+  backend:    ["Node.js", "NestJS", "Express", "Spring Boot", "Python"],
   mobile:     ["React Native"],
-  databases:  ["MongoDB", "MySQL"],
-  cloud:      ["AWS", "Docker"],
+  databases:  ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  cloud:      ["AWS", "GCP", "Docker"],
   portfolio:  "https://charithdev.netlify.app",
 };
 ```
@@ -51,11 +51,12 @@ const charith = {
 
 | Area | Technologies |
 |:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" alt="frontend"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="backend"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,tailwind" alt="frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python" alt="backend"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=react" alt="react native"/> &nbsp; React Native |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="databases"/> |
-| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=aws,docker,figma,git,github" alt="cloud and tools"/> |
+| **Databases & ORM** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="databases"/> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" alt="cloud and devops"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" alt="tools"/> |
 
 ---
 
