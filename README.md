@@ -11,7 +11,6 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [charithdev.netlify.app](https://charithdev.netlify.app/)
 
 ---
